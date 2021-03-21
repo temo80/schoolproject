@@ -1,1 +1,3 @@
-# schoolproject
+# maven-project
+
+Simple Maven Project
